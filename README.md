@@ -1,4 +1,4 @@
-# README for a newly created project.
+# README for Windows Azure Node Hello World sample.
 
 This is a simple Node.js project created using Cloud9 and deployed straight to Windows Azure.  
 
